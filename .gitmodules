@@ -1,0 +1,18 @@
+[submodule "personalgym"]
+	path = personalgym
+	url = https://github.com/xarlys/personalgym.git
+[submodule "teams"]
+	path = teams
+	url = https://github.com/xarlys/teams.git
+[submodule "inhere"]
+	path = inhere
+	url = https://github.com/xarlys/imhere.git
+[submodule "example"]
+	path = example
+	url = https://github.com/xarlys/example-initial-project.git
+[submodule "imhere"]
+	path = imhere
+	url = https://github.com/xarlys/imhere.git
+[submodule "personalGym"]
+	path = personalGym
+	url = https://github.com/xarlys/personalgym.git
